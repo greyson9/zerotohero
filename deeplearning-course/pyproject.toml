@@ -1,0 +1,10 @@
+[deeplearning-course]
+name = "deeplearning-course"
+version = "0.1.0"
+description = "my implementation of karpathy's zero-to-hero course"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+[[tool.uv.index]]
+name = "pytorch"
+url = "https://download.pytorch.org/whl/cu122"
